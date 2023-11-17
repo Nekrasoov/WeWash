@@ -71,7 +71,7 @@ public class TelegramBot extends TelegramLongPollingBot {
 
 
 
-    String universityText = "";
+    String universityText = " ";
     String adresText = "";
     String machineText = "";
 
